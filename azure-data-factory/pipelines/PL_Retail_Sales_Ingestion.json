@@ -1,0 +1,30 @@
+{
+  "name": "PL_Retail_Sales_Ingestion",
+  "properties": {
+    "activities": [
+      {
+        "name": "Copy_Sales_To_DataLake",
+        "type": "Copy",
+        "description": "Copies source sales files into the ADLS raw/bronze landing zone.",
+        "typeProperties": {
+          "source": {
+            "type": "DelimitedTextSource"
+          },
+          "sink": {
+            "type": "DelimitedTextSink"
+          }
+        }
+      },
+      {
+        "name": "Run_Databricks_Transformations",
+        "type": "DatabricksNotebook",
+        "description": "Triggers Bronze-to-Silver and Silver-to-Gold transformations."
+      }
+    ],
+    "parameters": {
+      "pipeline_run_date": {
+        "type": "string"
+      }
+    }
+  }
+}

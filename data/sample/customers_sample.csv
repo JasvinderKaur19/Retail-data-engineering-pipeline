@@ -1,0 +1,11 @@
+customer_id,customer_name,segment,city
+C0001,Customer 001,Small Business,Kamloops
+C0002,Customer 002,Consumer,Edmonton
+C0003,Customer 003,Corporate,Vancouver
+C0004,Customer 004,Consumer,Vancouver
+C0005,Customer 005,Small Business,Kamloops
+C0006,Customer 006,Small Business,Edmonton
+C0007,Customer 007,Small Business,Kamloops
+C0008,Customer 008,Small Business,Kelowna
+C0009,Customer 009,Consumer,Kamloops
+C0010,Customer 010,Consumer,Vancouver

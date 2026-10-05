@@ -1,0 +1,6 @@
+{
+  "name": "DS_Raw_Sales",
+  "properties": {
+    "description": "Template dataset definition. Configure linked service, file path and schema in Azure Data Factory."
+  }
+}

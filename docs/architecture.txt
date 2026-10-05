@@ -1,0 +1,27 @@
+Retail Sales Data Engineering Pipeline
+
+SOURCE
+  |
+  v
+Azure Data Factory
+  |
+  v
+Azure Data Lake Storage
+  |
+  +--> BRONZE (raw)
+  |
+  v
+Azure Databricks / PySpark
+  |
+  +--> SILVER (cleaned + validated)
+  |
+  v
+DELTA LAKE
+  |
+  +--> GOLD (business-ready)
+  |
+  v
+SQL / Synapse Analytics
+  |
+  v
+Power BI

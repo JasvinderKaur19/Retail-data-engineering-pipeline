@@ -1,0 +1,7 @@
+product_id,product_name,category,unit_price
+P001,All-Season Tire,Tires,70.62
+P002,Winter Tire,Tires,574.98
+P003,Performance Tire,Tires,617.37
+P004,Tire Installation,Services,87.68
+P005,Wheel Alignment,Services,333.88
+P006,Tire Rotation,Services,77.57

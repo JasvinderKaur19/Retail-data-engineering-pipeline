@@ -1,0 +1,101 @@
+customer_id,customer_name,segment,city
+C0001,Customer 001,Small Business,Kamloops
+C0002,Customer 002,Consumer,Edmonton
+C0003,Customer 003,Corporate,Vancouver
+C0004,Customer 004,Consumer,Vancouver
+C0005,Customer 005,Small Business,Kamloops
+C0006,Customer 006,Small Business,Edmonton
+C0007,Customer 007,Small Business,Kamloops
+C0008,Customer 008,Small Business,Kelowna
+C0009,Customer 009,Consumer,Kamloops
+C0010,Customer 010,Consumer,Vancouver
+C0011,Customer 011,Consumer,Calgary
+C0012,Customer 012,Small Business,Kamloops
+C0013,Customer 013,Small Business,Vancouver
+C0014,Customer 014,Small Business,Edmonton
+C0015,Customer 015,Small Business,Calgary
+C0016,Customer 016,Corporate,Vancouver
+C0017,Customer 017,Corporate,Calgary
+C0018,Customer 018,Corporate,Kamloops
+C0019,Customer 019,Consumer,Edmonton
+C0020,Customer 020,Corporate,Surrey
+C0021,Customer 021,Corporate,Vancouver
+C0022,Customer 022,Consumer,Surrey
+C0023,Customer 023,Consumer,Kamloops
+C0024,Customer 024,Corporate,Kamloops
+C0025,Customer 025,Corporate,Surrey
+C0026,Customer 026,Small Business,Surrey
+C0027,Customer 027,Consumer,Edmonton
+C0028,Customer 028,Corporate,Calgary
+C0029,Customer 029,Consumer,Kelowna
+C0030,Customer 030,Consumer,Calgary
+C0031,Customer 031,Corporate,Edmonton
+C0032,Customer 032,Small Business,Surrey
+C0033,Customer 033,Small Business,Vancouver
+C0034,Customer 034,Small Business,Kamloops
+C0035,Customer 035,Consumer,Edmonton
+C0036,Customer 036,Consumer,Surrey
+C0037,Customer 037,Consumer,Vancouver
+C0038,Customer 038,Consumer,Kelowna
+C0039,Customer 039,Corporate,Kelowna
+C0040,Customer 040,Small Business,Surrey
+C0041,Customer 041,Consumer,Surrey
+C0042,Customer 042,Corporate,Vancouver
+C0043,Customer 043,Small Business,Surrey
+C0044,Customer 044,Small Business,Edmonton
+C0045,Customer 045,Small Business,Kamloops
+C0046,Customer 046,Small Business,Edmonton
+C0047,Customer 047,Consumer,Calgary
+C0048,Customer 048,Small Business,Vancouver
+C0049,Customer 049,Consumer,Kelowna
+C0050,Customer 050,Corporate,Surrey
+C0051,Customer 051,Small Business,Edmonton
+C0052,Customer 052,Small Business,Vancouver
+C0053,Customer 053,Small Business,Surrey
+C0054,Customer 054,Consumer,Vancouver
+C0055,Customer 055,Consumer,Surrey
+C0056,Customer 056,Corporate,Surrey
+C0057,Customer 057,Consumer,Vancouver
+C0058,Customer 058,Small Business,Edmonton
+C0059,Customer 059,Corporate,Vancouver
+C0060,Customer 060,Small Business,Kelowna
+C0061,Customer 061,Corporate,Edmonton
+C0062,Customer 062,Corporate,Vancouver
+C0063,Customer 063,Corporate,Vancouver
+C0064,Customer 064,Consumer,Edmonton
+C0065,Customer 065,Small Business,Calgary
+C0066,Customer 066,Corporate,Edmonton
+C0067,Customer 067,Small Business,Kelowna
+C0068,Customer 068,Small Business,Kelowna
+C0069,Customer 069,Corporate,Vancouver
+C0070,Customer 070,Consumer,Calgary
+C0071,Customer 071,Corporate,Kamloops
+C0072,Customer 072,Consumer,Kamloops
+C0073,Customer 073,Consumer,Edmonton
+C0074,Customer 074,Consumer,Edmonton
+C0075,Customer 075,Corporate,Calgary
+C0076,Customer 076,Consumer,Kelowna
+C0077,Customer 077,Corporate,Calgary
+C0078,Customer 078,Corporate,Calgary
+C0079,Customer 079,Corporate,Calgary
+C0080,Customer 080,Consumer,Edmonton
+C0081,Customer 081,Small Business,Kamloops
+C0082,Customer 082,Small Business,Calgary
+C0083,Customer 083,Corporate,Edmonton
+C0084,Customer 084,Corporate,Kamloops
+C0085,Customer 085,Corporate,Kelowna
+C0086,Customer 086,Consumer,Kelowna
+C0087,Customer 087,Consumer,Edmonton
+C0088,Customer 088,Small Business,Surrey
+C0089,Customer 089,Small Business,Vancouver
+C0090,Customer 090,Small Business,Kamloops
+C0091,Customer 091,Small Business,Surrey
+C0092,Customer 092,Small Business,Calgary
+C0093,Customer 093,Small Business,Vancouver
+C0094,Customer 094,Consumer,Surrey
+C0095,Customer 095,Consumer,Calgary
+C0096,Customer 096,Small Business,Kamloops
+C0097,Customer 097,Small Business,Surrey
+C0098,Customer 098,Corporate,Kamloops
+C0099,Customer 099,Consumer,Surrey
+C0100,Customer 100,Corporate,Vancouver

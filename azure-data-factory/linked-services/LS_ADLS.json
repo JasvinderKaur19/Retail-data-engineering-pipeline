@@ -1,0 +1,6 @@
+{
+  "name": "LS_ADLS",
+  "properties": {
+    "description": "Template only. Configure credentials securely in Azure; do not commit secrets."
+  }
+}

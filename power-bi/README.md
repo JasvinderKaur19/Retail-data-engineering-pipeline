@@ -5,7 +5,7 @@ Dashboard preview: `dashboard_screenshots/retail_sales_dashboard_preview.png`
 ## Power BI-ready data
 The `gold_exports/` folder contains cleaned Gold-layer exports for the report.
 
-## Recommended visuals
+## visuals
 - Total Sales
 - Orders
 - Units Sold
@@ -15,7 +15,7 @@ The `gold_exports/` folder contains cleaned Gold-layer exports for the report.
 - Top Stores by Sales
 - Top Products
 
-## Suggested DAX
+## DAX
 ```DAX
 Total Sales = SUM(Sales[net_sales])
 Orders = DISTINCTCOUNT(Sales[sales_id])
